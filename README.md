@@ -13,5 +13,4 @@ This Java project aims to integrate the functionalities of Ruhuna Faculty of Tec
  - Java Swing for Frontend
  - MySQL Database
 
-## Contributors
  
