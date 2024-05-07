@@ -1,13 +1,14 @@
-# Management Information System
+# TECHMIS_LEARNING_PORTAL_UOR_FOT
 
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwhOJb4VtzJdGPE_dlGP0D8lFHkXa7-xMpLmBSM6AWwkhyoEaTIjE3x1B6iJYMbEzevdUZI5GXFqUd9wW7iDVZyfjr4akBdZWif2piqzjr8aPYA1KNP9kVVPinC0sU3YbFg9mJMaeQatEGzi-rgp1UNZboJZh18jZSXH2qjaroWKAI1Tl8NfkIyPqP/s1600/241960644-245d9bd3-5dcf-45b5-9a7f-1ce894ad9c8b.png)](https://creditshub.tech)
+## Introduction
+This Java project aims to integrate the functionalities of Ruhuna Faculty of Technology (FOT), Techmis, and a Learning Management System (LMS) into a unified platform. The project leverages Java Swing for the frontend and Java for the backend, providing a comprehensive system that caters to the needs of students, faculty, and administrators.
 
-# Overview
+##Features
+- Ruhuna FOT Integration: Incorporates features specific to the Faculty of Technology at the University of Ruhuna, including student enrollment, course management, and academic resources.
+- Techmis Integration: Integrates Techmis functionalities for student information management, course registration, and examination management.
+- LMS Integration: Provides a comprehensive Learning Management System for online course delivery, assignment submission, grading, and communication between students and instructors.  
 
-The MIS project, developed in Java and MySQL, streamlines administrative and academic tasks in universities. With roles like Admin, Lecturer, Technical Officer, and Student, it manages profiles, courses, academic records, attendance, notices, timetables, and medical data. Contributors welcome to enhance educational platform.
-
-# Contributing
-
-Contributors welcome to enhance educational platform.    
-    
-    
+## Technologies Used
+- Java for Backend
+- Java Swing for Frontend
+- MySQL Database    
